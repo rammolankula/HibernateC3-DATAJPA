@@ -1,1 +1,1 @@
-# HibernateDatajpaC3
+# DatajpaHibernateC3
